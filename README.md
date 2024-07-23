@@ -13,11 +13,11 @@ This project aims to classify tweets from X (formerly Twitter) according to thei
 ## Technologies Used
 - **Programming Languages**: Python
 - **Libraries and Frameworks**: 
-  - NLP: NLTK, SpaCy, Hugging Face Transformers
+  - NLP: NLTK, SpaCy
   - Data Processing: Pandas, NumPy
   - Machine Learning: Scikit-learn
-  - Visualization: Matplotlib, Seaborn, Plotly
-  - Web Framework: Flask (for API development)
+  - Visualization: Matplotlib, Seaborn
+  - Web Framework: Streamlit (for API development)[In progress]
 - **Tools**: Tweepy (for data collection), Jupyter Notebook, Git
 
 ## Installation and Setup
